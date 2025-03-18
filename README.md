@@ -25,8 +25,7 @@ dotnet build --configuration Release
 ```
 dotnet run --project ClassicaoDeTriangulos.ConsoleApp
 ```
-
-6. Para executar o arquivo compilado, navegue até a pasta ./ClassificaoDeTriangulos.ConsoleApp/bin/Release/net8.0/e execute o arquivo:
+6. Para executar o arquivo compilado, navegue até a pasta ./ClassificacaoDeTriangulo.ConsoleApp/bin/Release/net8.0/e execute o arquivo:
 ```
 ClassificacaoDeTriangulos.ConsoleApp.exe
 ```
